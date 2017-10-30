@@ -4,6 +4,7 @@
 #include<ctype.h>
 int main(void)
 {
+  //no change
     string s = get_string();
 
     printf("%c", toupper(s[0]));
