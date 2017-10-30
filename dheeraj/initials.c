@@ -2,8 +2,10 @@
 #include<cs50.h>
 #include<string.h>
 #include<ctype.h>
+// no change
 int main(void)
 {
+  //no change
     string s = get_string();
 
     printf("%c", toupper(s[0]));
