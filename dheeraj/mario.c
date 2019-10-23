@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//library
 void main()
 {
     int c;
