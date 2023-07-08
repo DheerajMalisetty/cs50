@@ -11,12 +11,12 @@ void main()
         }
         for (int k=i;k>=0;k--)
         {
-            printf("#");
+            printf("#"); // prints hashtag.
         }
         printf(" ");
         for (int h=0;h<=i;h++)
         {
-            printf("#");
+            printf("#"); // Also prints hashtag.
         }
         printf("\n");
     }
